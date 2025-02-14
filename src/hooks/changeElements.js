@@ -40,7 +40,7 @@ export const useChangeElements = () => {
                 if (prev === 1) {
                     clearInterval(intervalRef.current);
                     intervalRef.current = null;
-                    window.location.href = "https://www.ejemplo.com"; // Cambia por tu URL real
+                    window.location.href = "https://felizsanvalentinari.netlify.app/"; // Cambia por tu URL real
                 }
                 return prev - 1;
             });
