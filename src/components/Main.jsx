@@ -7,7 +7,7 @@ export function Main() {
         <main className="max-w-3xl m-auto w-full h-screen text-center flex justify-center items-center">
             <div className="flex flex-col items-center gap-4">
                 <h1 className="font-sans font-bold text-white text-2xl">
-                    ¿Puedo ser tu San Valentín mi nonita? ❤️
+                    ¿Puedo ser tu San Valentín mi nonitaa? ❤️
                 </h1>
 
                 <img src={image} className="w-72" alt="Imagen dinámica" />
